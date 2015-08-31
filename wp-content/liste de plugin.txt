@@ -1,0 +1,13 @@
+installation de plusieurs plugin
+
+-Jetpack pour les reseaux sociaux...
+
+-tinymce-advanced  pour le texte "la police"
+
+-Wordpress-seo   pour le referencement
+
+-geo-my wp  pour la localisation
+
+-corousel-k  pour les images en diapo
+
+-graphie.wp-charts  pour les Graphique
